@@ -6,7 +6,7 @@
 
 
 ## 功能
-[视频介绍](https://www.bilibili.com/video/BV1oK411c7Y7)
+[点击查看B站视频介绍](https://www.bilibili.com/video/BV1oK411c7Y7)
 
 ![托盘菜单](https://meta.appinn.net/uploads/default/original/2X/b/b404dfd0495fd59bab694a91f63ed3eca8fb4d1e.png)
 
