@@ -1,5 +1,8 @@
 ## Nine最新版本1.0.0
 窗口绑定快捷键、窗口分组、虚拟桌面
+## 下载
+
+[腾讯微云](https://share.weiyun.com/dtRgxHJB)
 
 
 ## 功能
@@ -17,9 +20,6 @@
 
 按Alt+PgUp/PgDn：提高或降低非透明度
 
-## 下载
-
-[腾讯微云](https://share.weiyun.com/dtRgxHJB)
 
 ## 3.打赏
 
