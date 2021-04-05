@@ -8,9 +8,9 @@
 ## 功能
 [点击查看B站视频介绍](https://www.bilibili.com/video/BV1oK411c7Y7)
 
-![托盘菜单](https://meta.appinn.net/uploads/default/original/2X/9/98a0367c0d20e99054a2c67d1b8490d92cc9625f.png)
+![托盘菜单](https://meta.appinn.net/uploads/default/original/2X/2/218cdb66a68944149a9ec70c984ad75d9ee1a13d.png)
 
-[托盘菜单](https://meta.appinn.net/uploads/default/original/2X/9/98a0367c0d20e99054a2c67d1b8490d92cc9625f.png)
+[托盘菜单](https://meta.appinn.net/uploads/default/original/2X/2/218cdb66a68944149a9ec70c984ad75d9ee1a13d.png)
 
 按Alt+1至9：切换到指定桌面
 
@@ -35,11 +35,10 @@
 
 ## 4.历史
 
-### Nine 1.0.2更新内容
+### Nine 1.0.3更新内容
 
 1、过滤了工具类窗口，这些窗口应该始终显示，因为任务栏就属于工具类窗口
 
-2、将按钮的桌面序号改成了桌面里的窗口数量显示
 
 ### Nine 1.0.1更新内容
 
